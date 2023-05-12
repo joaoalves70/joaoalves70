@@ -3,9 +3,10 @@
 - 🔭 Hoje trabalho fora da área da técnologia
 - 🌱 Atualmente cursando Ciência da Computação
 
-<div align="left">
-  ![joaoalves70 GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoalves70&show_icons=true&theme=dark) <img height="90em">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoalves70&layout=compact&langs_count=7&theme=dark"/> 
+<div align="center">
+  
+![Samuellopes GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelllopes&show_icons=true&theme=dark) <img height="90em">
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelllopes&layout=compact&langs_count=7&theme=dark"/> 
 </div>
 
 <div style="display: inline_block"><br>
