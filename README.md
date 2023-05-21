@@ -6,7 +6,7 @@
 <div align="center">
   
 ![Joaoalves70 GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoalves70&show_icons=true&theme=dark) <img height="90em">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoalves70&layout=compact&langs_count=7&theme=dark"/> 
+  <img height="182em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoalves70&layout=compact&langs_count=7&theme=dark"/> 
 </div>
 
 <div style="display: inline_block"><br>
